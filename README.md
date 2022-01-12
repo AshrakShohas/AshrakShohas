@@ -76,7 +76,7 @@ Please keep in mind these are just my most used languages within my Repos on Git
 language.
 <br></br>
 
-<p><img width="100%" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshrakShohas&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)"
+<p><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=AshrakShohas&theme=dark&date_format=M%20j%5B%2C%20Y%5D)"
         alt="meherabbappy" /></p>
         
 ![GitHub
