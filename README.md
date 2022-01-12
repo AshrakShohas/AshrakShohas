@@ -1,9 +1,8 @@
 <h1 align="center">Hi there <img
         src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"
-        width="28px" alt="hi">, I'm Meherab</h1>
+        width="28px" alt="hi">, I'm Ashrak Shohas</h1>
 
-I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daffodil International University. I consider myself who is persistent, a quick learner, and loves problem-solving by using simple and scalable solutions.A self-motivated IT professional with huge knowledge and proficiency in ReactJS, NodeJS, ExpressJS and mobile
-responsive web development as well as strong skills and ability in writing clean and efficient code.
+I'm now a B.SC(Final Year) student at Daffodil International University studying Computer Science Engineering. I consider myself to be a tenacious student who enjoys problem-solving with simple and scalable solutions. A self-motivated IT expert with extensive knowledge and experience in ReactJS, NodeJS, ExpressJS, and mobile responsive web development, as well as good writing skills and abilities.
 
 <h3 align="left">Currently working with:</h3>
 <p>
@@ -68,29 +67,29 @@ responsive web development as well as strong skills and ability in writing clean
 </p>
 <h3> :coffee: &emsp; Connect with me!</h3>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/meherabhossainbappy) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/meherabhossain1/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/meherab_bappy/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Meherab77865059) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meherabhossain582@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ashrak.shohas.3) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrak-shohas-901771166/?locale=en_US) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashrak_shohas/?fbclid=IwAR0227mxbd3iUHzUNiWB37xcF2KzUwEW75ImQU-ZPxjyJ8X6oGDauLFq7uI) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AShohas?fbclid=IwAR2-LHul2QnrC22eVbz0oYaOJkTCF8WgKkCFLgvMzbJQaJpwtBNP0MY5Jd4) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashraks97@gmail.com)
 
-<h3>📲 +88 01799304612</h3>
+<!-- <h3>📲 +88 01799304612</h3> -->
 
 <h3>My Activities Statistics:</h3>
 Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the
 language.
 <br></br>
 
-<p><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=meherabbappy&theme=radical"
+<p><img width="100%" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshrakShohas&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)"
         alt="meherabbappy" /></p>
         
 ![GitHub
-stats](https://github-readme-stats.vercel.app/api?username=meherabbappy&theme=tokyonight&show_icons=true&count_private=true)
+stats](https://github-readme-stats.vercel.app/api?username=AshrakShohas&theme=dark&show_icons=true&count_private=true)
 <img width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meherabbappy&layout=compact&theme=tokyonight">
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrakShohas&layout=compact&theme=tokyonight">
     
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meherabbappy&theme=react-dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AshrakShohas&theme=react-dark)
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/meherab)
+![GitHub metrics](https://metrics.lecoq.io/AshrakShohas)
 
-![Profile views](https://gpvc.arturio.dev/meherabbappy) <a href="https://github.com/meherab?tab=followers"><img
-        src="https://img.shields.io/github/followers/meherabbappy?label=Followers&style=social" alt="GitHub Badge"></a>
+![Profile views](https://gpvc.arturio.dev/AshrakShohas) <a href="https://github.com/AshrakShohas?tab=followers"><img
+        src="https://img.shields.io/github/followers/AshrakShohas?label=Followers&style=social" alt="GitHub Badge"></a>
 <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" />
