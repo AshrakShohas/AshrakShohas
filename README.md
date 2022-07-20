@@ -29,6 +29,7 @@ I'm now a B.SC(Final Year) student at Daffodil International University studying
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
         alt="bootstrap">
          <a title="Microsoft, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Microsoft_.NET_logo.svg"><img width="32" alt="Microsoft .NET logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/16px-Microsoft_.NET_logo.svg.png"></a>
+        <a title="Jason Groce, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:C_Sharp_wordmark.svg"><img width="32" alt="C Sharp wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/32px-C_Sharp_wordmark.svg.png"></a>
 </p>
 <h3>Softwares and Tools:</h3>
 <p>
