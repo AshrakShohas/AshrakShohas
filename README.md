@@ -28,6 +28,7 @@ I'm now a B.SC(Final Year) student at Daffodil International University studying
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
         alt="bootstrap">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET">
 </p>
 <h3>Softwares and Tools:</h3>
 <p>
