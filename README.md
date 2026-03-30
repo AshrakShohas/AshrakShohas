@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-3 years%2B-blue" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-3%20years%2B-blue" />
   <img src="https://img.shields.io/badge/CSE%20Graduate-CGPA%203.71-success" />
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-orange" />
 </p>
@@ -36,18 +36,29 @@ I'm a passionate Software Engineer with over 3 years of industry experience at *
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### 📊 Microsoft Office
 ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+### 💻 Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ---
 
@@ -85,7 +96,7 @@ I'm a passionate Software Engineer with over 3 years of industry experience at *
 ## 📜 Certifications
 
 - **Certified Web Developer (MERN)** - Programming Hero (2021)
-- **Android Game Development** - [Institution Name]
+- **Android Game Development** - Online
 
 ---
 
@@ -99,27 +110,23 @@ I'm a passionate Software Engineer with over 3 years of industry experience at *
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AshrakShohas&theme=dark&show_icons=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AshrakShohas&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AshrakShohas&show_icons=true&theme=dark&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshrakShohas&theme=dark" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrakShohas&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrakShohas&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AshrakShohas&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshrakShohas&theme=react-dark" />
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/AshrakShohas" />
-</p>
-
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshrakShohas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/AshrakShohas?tab=followers">
     <img src="https://img.shields.io/github/followers/AshrakShohas?label=Followers&style=social" alt="GitHub Badge">
   </a>
-  <img src="https://gpvc.arturio.dev/AshrakShohas" alt="Profile views">
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask me anything">
 </p>
 
@@ -132,8 +139,7 @@ I'm a passionate Software Engineer with over 3 years of industry experience at *
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashrak_shohas/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AShohas)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashraks97@gmail.com)
-
-📞 **Contact:** +8801308032573  
+ 
 📍 **Location:** Dhaka, Bangladesh
 
 ---
