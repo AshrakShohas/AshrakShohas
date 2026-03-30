@@ -1,97 +1,147 @@
-<h1 align="center">Hi there <img
-        src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"
-        width="28px" alt="hi">, I'm Ashrak Shohas</h1>
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Ashrak Shohas</h1>
 
-I'm now a B.SC(Final Year) student at Daffodil International University studying Computer Science Engineering. I consider myself to be a tenacious student who enjoys problem-solving with simple and scalable solutions. A self-motivated IT expert with extensive knowledge and experience in ReactJS, NodeJS, ExpressJS, and mobile responsive web development, as well as good writing skills and abilities.
+<h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
-<h3 align="left">Currently working with:</h3>
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-        alt="bootstrap">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-        alt="javascript">
-        <img src="https://img.shields.io/badge/NodeJs-F7DF1E?style=for-the-badge&logo=nodeJS&logoColor=black"
-        alt="nodejs">
-         <img src="https://img.shields.io/badge/reactJs-F7DF1E?style=for-the-badge&logo=reactJS&logoColor=black"
-        alt="reactjs">
-        <img src="https://img.shields.io/badge/expressJs-F7DF1E?style=for-the-badge&logo=expressJS&logoColor=white"
-        alt="expressjs">
-         <img src="https://img.shields.io/badge/mongoDB-F7DF1E?style=for-the-badge&logo=mongoDB&logoColor=black"
-        alt="mongodb">
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-3 years%2B-blue" />
+  <img src="https://img.shields.io/badge/CSE%20Graduate-CGPA%203.71-success" />
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-orange" />
 </p>
-<h3>Languages and Frameworks:</h3>
-<p>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-        alt="bootstrap">
-         <a title="Microsoft, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Microsoft_.NET_logo.svg"><img width="32" alt="Microsoft .NET logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/16px-Microsoft_.NET_logo.svg.png"></a>
-        <a title="Jason Groce, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:C_Sharp_wordmark.svg"><img width="32" alt="C Sharp wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/32px-C_Sharp_wordmark.svg.png"></a>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate Software Engineer with over 3 years of industry experience at **Orion Informatics Ltd**, holding a Bachelor's degree in Computer Science & Engineering from **Daffodil International University** (CGPA: 3.71). I thrive on solving complex problems with clean, scalable solutions and am committed to continuous learning and growth in the tech industry.
+
+- 🔭 **Currently working as:** Software Engineer at Orion Informatics Ltd (August 2022 - Present)
+- 🌱 **Currently learning:** Advanced Python, JavaScript, and Cloud Technologies
+- 💼 **Open to:** Full-time opportunities, collaborations, and challenging projects
+- 🎯 **Career Goal:** Contribute to innovative tech solutions while growing alongside dynamic organizations
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 📊 Microsoft Office
+![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+### **Orion Informatics Ltd** | Software Engineer
+*August 2022 - Present | Dhaka, Bangladesh*
+
+#### Key Projects & Contributions:
+
+- **Interoperable Digital Transaction Platform (IDTP)** - *Bangladesh Bank, Dhaka*
+  - Oversaw transaction monitoring and tracking for failed transactions
+  - Performed regular system backups for production and test environments
+  - Developed console app for automated log retrieval for financial institutions
+
+- **Student Management System** - *Bangladesh University, Dhaka*
+  - Provided IT support for faculty management and student records
+  - Enhanced system functionality by modifying SMS portal to meet university requirements
+
+- **Oil and Gas Project** - *Nuarca, Cork, Ireland (Remote)*
+  - Created services for data management and business logic
+  - Developed Angular components for responsive UI elements
+  - Generated mock data for comprehensive system testing
+
+- **GBrain GPT Platform**
+  - Converted GPT data into XML format for seamless integration
+  - Developed Python automation tool for Q&A processes
+
+- **Trading Tool**
+  - Built tools for Renko bar plotting using matplotlib, Plotly, and Dash
+  - Created scripts for profit analysis and data trend evaluation
+
+---
+
+## 📜 Certifications
+
+- **Certified Web Developer (MERN)** - Programming Hero (2021)
+- **Android Game Development** - [Institution Name]
+
+---
+
+## 🎓 Education
+
+### **Bachelor of Computer Science & Engineering**
+**Daffodil International University** | *Passing Year: 2022* | **CGPA: 3.71**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AshrakShohas&theme=dark&show_icons=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AshrakShohas&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-<h3>Softwares and Tools:</h3>
-<p>
-    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"
-        alt="word">
-    <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"
-        alt="powerpoint">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-        alt="excel">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"
-        alt="vs code">
-    <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"
-        alt="sheets">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
-        alt="netlify">
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"
-        alt="pycharm">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"
-        alt="canva">
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrakShohas&layout=compact&theme=tokyonight" />
 </p>
-<h3>Operating Systems:</h3>
-<p>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-        alt="windows">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
-        alt="android">
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="ios">
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AshrakShohas&theme=react-dark" />
 </p>
-<h3> 🌱 I’m currently learning:</h3>
-<p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-        alt="javascript">
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/AshrakShohas" />
 </p>
-<h3> :coffee: &emsp; Connect with me!</h3>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ashrak.shohas.3) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrak-shohas-901771166/?locale=en_US) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashrak_shohas/?fbclid=IwAR0227mxbd3iUHzUNiWB37xcF2KzUwEW75ImQU-ZPxjyJ8X6oGDauLFq7uI) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AShohas?fbclid=IwAR2-LHul2QnrC22eVbz0oYaOJkTCF8WgKkCFLgvMzbJQaJpwtBNP0MY5Jd4) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashraks97@gmail.com)
+<p align="center">
+  <a href="https://github.com/AshrakShohas?tab=followers">
+    <img src="https://img.shields.io/github/followers/AshrakShohas?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+  <img src="https://gpvc.arturio.dev/AshrakShohas" alt="Profile views">
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask me anything">
+</p>
 
-<!-- <h3>📲 +88 01799304612</h3> -->
+---
 
-<h3>My Activities Statistics:</h3>
-Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the
-language.
-<br></br>
+## 🤝 Connect with Me
 
-<p><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=AshrakShohas&theme=dark&date_format=M%20j%5B%2C%20Y%5D)"
-        alt="meherabbappy" /></p>
-        
-![GitHub
-stats](https://github-readme-stats.vercel.app/api?username=AshrakShohas&theme=dark&show_icons=true&count_private=true)
-<img width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrakShohas&layout=compact&theme=tokyonight">
-    
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AshrakShohas&theme=react-dark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrak-shohas-901771166/?locale=en_US)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ashrak.shohas.3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashrak_shohas/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AShohas)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashraks97@gmail.com)
 
+📞 **Contact:** +8801308032573  
+📍 **Location:** Dhaka, Bangladesh
 
+---
 
-![GitHub metrics](https://metrics.lecoq.io/AshrakShohas)
+## 📝 Note
 
-![Profile views](https://gpvc.arturio.dev/AshrakShohas) <a href="https://github.com/AshrakShohas?tab=followers"><img
-        src="https://img.shields.io/github/followers/AshrakShohas?label=Followers&style=social" alt="GitHub Badge"></a>
-<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" />
+> *The GitHub stats above show my most used languages within my repositories and do not necessarily indicate my skill level in each language.*
+
+---
+
+⭐️ **Feel free to explore my repositories and connect with me! I'm always open to collaborations and exciting opportunities.**
